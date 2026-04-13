@@ -1,0 +1,11 @@
+pandas
+numpy
+akshare
+tushare
+scikit-learn
+lightgbm
+torch
+matplotlib
+plotly
+requests
+schedule
